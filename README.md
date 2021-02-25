@@ -8,7 +8,7 @@
 
 Via email : Léo Portemont <leo.portemont@portemont.eu>
 
-:lock: GPG Key : 
+:lock: [GPG Key](https://raw.githubusercontent.com/lportemo/lportemo/master/me.gpg)
 
 ## About me
 
